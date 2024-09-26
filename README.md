@@ -39,7 +39,7 @@ This is the official code repository of "SLIM: Scalable and Lightweight LiDAR Ma
 + **General Solution for Sparsification in Graph-based SLAM**
 
 ## Code
-Code will be released after manuscript discision.
+Code will be released after manuscript decision.
 <!-- Please visit [SLABIM_Google_Drive]() to check and download data. -->
 
 ## Acknowledgements
