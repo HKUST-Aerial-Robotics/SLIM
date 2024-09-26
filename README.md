@@ -28,18 +28,18 @@
 ### News
 * **`15 Sep 2024`:** We submit our paper to [IEEE ICRA](https://2025.ieee-icra.org/). -->
 ## Introduction
-This is the official code repository of "SLIM: Scalable and Lightweight LiDAR Mapping in Urban Environments". SLIM is a scalable multi-session SLAM algorithm. It enables the construction of vectorized maps and supports scalable map merging. It provides a effective solution for multi-session mapping and is easily extensible, to crowdsourcing visual vectorized maps in autonomous driving.
+This is the official code repository of "SLIM: Scalable and Lightweight LiDAR Mapping in Urban Environments". SLIM is a scalable multi-session SLAM algorithm. It enables the construction of vectorized maps and supports scalable map merging. It provides a effective solution for multi-session mapping and is easily extensible, for example, to crowdsourcing visual vectorized maps in autonomous driving.
 
 <div align = "center"><img src="assets/SystemOverview.png" width="95%" /> </div>
 
 **Features**:
-+ **Vectorized LiDAR Mapping with Bundle Adjustment**:
++ **Vectorized LiDAR Mapping with Bundle Adjustment**
 + **Scalable Map Merging for Vectorized Map**
 + **Relocalization on Vectorized Map**
 + **General Solution for Sparsification in Graph-based SLAM**
 
 ## Code
-Code will be released after manuscript dicision.
+Code will be released after manuscript discision.
 <!-- Please visit [SLABIM_Google_Drive]() to check and download data. -->
 
 ## Acknowledgements
